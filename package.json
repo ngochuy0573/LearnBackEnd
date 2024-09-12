@@ -1,0 +1,24 @@
+{
+  "name": "backend-from-zero",
+  "version": "1.0.0",
+  "description": "Learn-Back-End",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngochuy0573/LearnBackEnd.git"
+  },
+  "keywords": [
+    "notejs",
+    "react"
+  ],
+  "author": "ngoc-huy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "extract": "^1.0.0"
+  }
+}
